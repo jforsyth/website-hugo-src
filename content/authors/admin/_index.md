@@ -58,7 +58,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: 'static/pdf/Jason-Forsyth-CV.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,4 @@ user_groups:
 
 Welcome to Jason Forsyth’s personal website!
 
-I can also be found on [Google Scholar](https://scholar.google.com/citations?user=EY6SBHcAAAAJ&hl=en). Feel free to contact me at forsy2jb {_at_} jmu.edu. My full CV can be found [here](pdfs/Jason-Forsyth-CV.pdf) (Current as of 7/17/2019). Feel free to browse the pages below and find my biography, current projects, and publications.
+I can also be found on [Google Scholar](https://scholar.google.com/citations?user=EY6SBHcAAAAJ&hl=en). Feel free to contact me at forsy2jb {_at_} jmu.edu. My full CV can be found [here](pdf/Jason-Forsyth-CV.pdf) (Current as of 7/17/2019). Feel free to browse the pages below and find my biography, current projects, and publications.
