@@ -18,7 +18,7 @@ organizations:
   url: "http://www.jmu.edu/engineering"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jason Forsyth is an Assistant Professor of Engineering at James Madison University. He received his PhD from Virginia Tech in May 2015. His major research interests are in wearable/pervasive computing and engineering education.
+bio: Jason Forsyth is an Assistant Professor of Engineering at James Madison University. His major research interests are in wearable/pervasive computing and engineering education. His current research interests focus on on-body human activity recognition and interactive machine learning for physical therapy patients and practitioners to increase exercise adherence and clinical evaluation. 
 
 interests:
 - Wearable Computing
@@ -70,9 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Jason Forsyth is an Assistant Professor of Engineering at James Madison University. He received his PhD from Virginia Tech in May 2015. His major research interests are in wearable/pervasive computing and engineering education. Previously he was an Assistant Professor of Electrical and Computer Engineering at York College of Pennsylvania from 2015 – 2018.
+Welcome to Jason Forsyth’s personal website!
 
-His wearable computing work develops safety systems that provide continuous monitoring and sensing to protect human life. Previous work examined the role of wearable pulse oximetry in protecting construction workers from carbon monoxide poisoning and developing a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes. His current research interests focus on on-body human activity recognition and interactive machine learning for physical therapy patients and practitioners to increase exercise adherence and clinical evaluation.
-
-
-Jason is the recipient of the 2012 Best Paper Award from IEEE Transactions on Automation Science and Engineering for working on wearable monitoring of carbon monoxide poisoning in construction workers.
+I can also be found on [Google Scholar](https://scholar.google.com/citations?user=EY6SBHcAAAAJ&hl=en). Feel free to contact me at forsy2jb {_at_} jmu.edu. My full CV can be found [here](pdfs/Jason-Forsyth-CV.pdf) (Current as of 7/17/2019). Feel free to browse the pages below and find my biography, current projects, and publications.
