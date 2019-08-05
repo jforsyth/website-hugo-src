@@ -20,7 +20,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division"
-publication_short = "ASEE 2018*"
+publication_short = "ASEE 2018"
 
 # Abstract and optional shortened version.
 abstract = """Many engineering programs incorporate project-based, service learning into traditional classes and capstone experience. These projects focus on service-related challenges that impact the local, national, or international community and could be described as “humanitarian” or “for the greater good”. While these projects have shown positive benefits for recruitment, retention, and student diversity, what has been unexamined is whether student motivations in these projects differ from their peers in more traditional capstone projects. We hypothesize that students in service-oriented capstone projects may feel greater motivation and engagement with their project due to its service components as compared to their peers in other capstone projects. 

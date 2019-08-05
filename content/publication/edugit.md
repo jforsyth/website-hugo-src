@@ -1,11 +1,11 @@
 +++
-title = "The design of smart garments for motion capture and activity classification"
+title = "EduGit: Toward a Platform for Publishing and Adopting Course Content"
 
 # Date first published.
-date = "2016-07-01"
+date = "2019-07-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Rabih Younes", "Kristen Hines", "Jason Forsyth", "Jacob Dennis", "Tom Martin", "Mark Jones"]
+authors = ["Michael Stewart", "Jason Forsyth", "Zamwua Nasrawt"]
 
 # Publication type.
 # Legend:
@@ -16,15 +16,15 @@ authors = ["Rabih Younes", "Kristen Hines", "Jason Forsyth", "Jacob Dennis", "To
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["6"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Chapter 27 in Smart Textiles and Their Applications, V. Koncar (editor), Woodhead Publishing, Duxford, UK"
-publication_short = "Smart Textiles and Their Applications"
+publication = "21st International Conference of Human-Computer Interaction (HCII)"
+publication_short = "HCII 2019"
 
 # Abstract and optional shortened version.
-#abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-#abstract_short = "A short version of the abstract."
+abstract = ""
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/B9780081005743000278"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = {name = "Custom Link", url = "https://www.sciencedirect.com/science/article/pii/B9780081005743000278"}
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true

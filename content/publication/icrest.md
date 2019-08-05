@@ -1,14 +1,11 @@
 +++
-title = "The design of smart garments for motion capture and activity classification"
+title = "A Smart Sensor Network for an Automated Urban Greenhouse"
 
 # Date first published.
-date = "2016-07-01"
+date = "2019-01-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Rabih Younes", "Kristen Hines", "Jason Forsyth", "Jacob Dennis", "Tom Martin", "Mark Jones"]
-
-# Publication type.
-# Legend:
+authors = ["Kala Meah", "Jason Forsyth", "James Moscola"]
 # 0 = Uncategorized
 # 1 = Conference proceedings
 # 2 = Journal
@@ -16,15 +13,15 @@ authors = ["Rabih Younes", "Kristen Hines", "Jason Forsyth", "Jacob Dennis", "To
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["6"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Chapter 27 in Smart Textiles and Their Applications, V. Koncar (editor), Woodhead Publishing, Duxford, UK"
-publication_short = "Smart Textiles and Their Applications"
+publication = "2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST)"
+publication_short = "ICREST 2019"
 
 # Abstract and optional shortened version.
-#abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-#abstract_short = "A short version of the abstract."
+abstract = ""
+abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -39,7 +36,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/B9780081005743000278"
+url_pdf = "https://ieeexplore.ieee.org/document/8644079/"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +48,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
- url_custom = {name = "Custom Link", url = "https://www.sciencedirect.com/science/article/pii/B9780081005743000278"}
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = true
