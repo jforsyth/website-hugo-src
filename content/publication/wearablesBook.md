@@ -23,8 +23,8 @@ publication = "Chapter 27 in Smart Textiles and Their Applications, V. Koncar (e
 publication_short = "In *ICA*"
 
 # Abstract and optional shortened version.
-abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
-abstract_short = "A short version of the abstract."
+#abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
+#abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""

@@ -1,11 +1,11 @@
 +++
-title = "Effects of Service-Learning Projects on Capstone Student Motivation"
+title = "Engagement in Practice: Engaging with the Community One Bike at a Time"
 
 # Date first published.
-date = "2018-06-24"
+date = "2019-06-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jason Forsyth", "Mark Budnik", "Randi Shedlosky", "Jeff Will"]
+authors = ["Robert Nagel", "Jacuquelyn Nagel", "Callie Miller", "Jason Forsyth"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["Jason Forsyth", "Mark Budnik", "Randi Shedlosky", "Jeff Will"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division"
-publication_short = "ASEE 2018*"
+publication = "Proceedings of the American Society of Engineering Education Annual Conference – Community Engagement Division"
+publication_short = "ASEE 2019"
 
 # Abstract and optional shortened version.
 abstract = """Many engineering programs incorporate project-based, service learning into traditional classes and capstone experience. These projects focus on service-related challenges that impact the local, national, or international community and could be described as “humanitarian” or “for the greater good”. While these projects have shown positive benefits for recruitment, retention, and student diversity, what has been unexamined is whether student motivations in these projects differ from their peers in more traditional capstone projects. We hypothesize that students in service-oriented capstone projects may feel greater motivation and engagement with their project due to its service components as compared to their peers in other capstone projects. 
@@ -41,12 +41,12 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/ASEE-Multi-Pre-print-2018.pdf"
+url_pdf = "pdf/engagement-in-practice-engaging-with-the-community-one-bike-at-a-time.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "pdf/ASEE-Multi-2018-Presentation.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
