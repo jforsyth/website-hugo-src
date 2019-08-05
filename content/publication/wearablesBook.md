@@ -5,7 +5,7 @@ title = "The design of smart garments for motion capture and activity classifica
 date = "2016-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["R. Younes", "K. Hines", "J. Forsyth", "J. Dennis", "T. Martin", "M. Jones"]
+authors = ["Rabih Younes", "Kristen Hines", "Jason Forsyth", "Jacob Dennis", "Tom Martin", "Mark Jones"]
 
 # Publication type.
 # Legend:
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/my-paper-name.pdf"
+url_pdf = "https://www.sciencedirect.com/science/article/pii/B9780081005743000278"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+ url_custom = {name = "Custom Link", url = "https://www.sciencedirect.com/science/article/pii/B9780081005743000278"}
 
 # Does the content use math formatting?
 math = true
@@ -66,5 +66,3 @@ highlight = true
 #caption = "My caption 😄"
 
 +++
-
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
