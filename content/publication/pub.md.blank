@@ -20,10 +20,12 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = "Venue Name"
+
 publication_short = "Venue Name Short"
 
 # Abstract and optional shortened version.
 abstract = """Multi line abstract"""
+
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
