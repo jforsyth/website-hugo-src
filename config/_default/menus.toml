@@ -23,6 +23,11 @@
   url = "teaching/"
   weight = 60
 
+ [[main]]
+  name = "Research"
+  url = "#projects"
+  weight = 65
+  
 #[[main]]
 #  name = "Contact"
 #  url = "#contact"
