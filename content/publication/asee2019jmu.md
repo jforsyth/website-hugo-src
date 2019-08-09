@@ -5,7 +5,7 @@ title = "Engagement in Practice: Engaging with the Community One Bike at a Time"
 date = "2019-06-24"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Robert Nagel", "Jacquelyn Nagel", "Callie Miller", "Jason Forsyth"]
+authors = ["Robert Nagel", "Jacquelyn Nagel", "Callie Miller", "Jason Forsyth", "Shraddha Joshi", "Kyle Gibson"]
 
 # Publication type.
 # Legend:
