@@ -41,4 +41,4 @@ Jason Forsyth, Tom Martin, Deborah Young-Corbett, Ed Dorsa, “Feasibility of In
 
 J. Forsyth, T.L. Martin, D. Young-Corbett, E. Dorsa; “Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers,” 2011 IEEE International Conference on Pervasive Computing and Communications (PerCom),  Seattle, WA, March 21-25 2011, pp.28-36 (11% of 156 accepted as long papers) [link](/publication/percom/)
 
-Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (Accepted for publication, 33% acceptance rate). [link](/publication/iccv/)
+Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (33% acceptance rate). [link](/publication/iccv/)
