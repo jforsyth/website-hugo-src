@@ -20,7 +20,7 @@ publication = "2019 International Conference on Robotics, Electrical and Signal 
 publication_short = "ICREST 2019"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "An effective and efficient sensor network is an essen- tial component of an automated urban greenhouse (AUG). This paper describes a design process that prototyped a smart sensor network as part of a capstone design project. This smart sensor network communicates among sensing, power and automation, and visualization and user interface aspects of the AUG to provide automatic monitoring of lighting, heating, watering, and ventilation. This automated urban greenhouse, along with the sensor network, is being installed at a local elementary school in downtown York, Pennsylvania. It will serve as an educational tool and create awareness of the importance of fresh foods."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/8644079/"
+url_pdf = "/pdf/icrest-2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
