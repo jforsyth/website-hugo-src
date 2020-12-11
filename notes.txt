@@ -1,0 +1,3 @@
+https://www.cc.gatech.edu/~san37/post/managing-content/#create-a-publication
+
+Changes to home page require manual restart of hugo.
