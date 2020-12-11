@@ -21,7 +21,7 @@ publication_types = ["1"]
 # Publication name and optional abbreviated version.
 publication = "2020 National Association for Research in Science Teaching (NARST) International Conference"
 
-publication_short = "Venue Name Short"
+publication_short = "NARST 2020"
 
 # Abstract and optional shortened version.
 abstract = """"""
