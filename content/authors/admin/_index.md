@@ -18,11 +18,11 @@ organizations:
   url: "http://www.jmu.edu/engineering"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Jason Forsyth is an Assistant Professor of Engineering at James Madison University. His major research interests are in wearable/pervasive computing and engineering education. His current research interests focus on on-body human activity recognition and interactive machine learning for physical therapy patients and practitioners to increase exercise adherence and clinical evaluation. 
+bio: Jason Forsyth is an Assistant Professor of Engineering at James Madison University. His major research interests are in wearable/ubiquitous computing and engineering education. His current research interests focus on on-body human activity recognition and interactive machine learning for physical therapy patients and practitioners to increase exercise adherence and clinical evaluation. 
 
 interests:
 - Wearable Computing
-- Pervasive Computing
+- Ubiquitous Computing
 - Engineering Education
 
 #education:
