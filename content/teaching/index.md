@@ -12,10 +12,11 @@ date="2019-08-06"
 
 |Course Title|Semester Offered|
 |---|---|
-|ENGR 112: Engineering Decisions|Spring 2019, Spring 2020|
+|ENGR 112: Engineering Decisions|Spring 2019, Spring 2020, Spring 2021|
 |ENGR 280: Real-World Modeling and Programming | Spring 2020|
-|ENGR 231: Engineering Design I|Fall 2018|
-|ENGR 313: Circuits and Instrumentation| Fall 2018, Spring 2019, Fall 2019, Spring 2020|
+|ENGR 231: Engineering Design I|Fall 2018, Fall 2020|
+|ENGR 232: Engineering Design II|Spring 2021|
+|ENGR 313: Circuits and Instrumentation| Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020|
 |ENGR 498: Design for the Internet of Things|Fall 2019|
 
 
