@@ -14,10 +14,12 @@ date="2019-08-06"
 |---|---|
 |ENGR 112: Engineering Decisions|Spring 2019, Spring 2020, Spring 2021|
 |ENGR 280: Real-World Modeling and Programming | Spring 2020|
+|ENGR 280: Python Programming with Biometric Data | Fall 2020|
 |ENGR 231: Engineering Design I|Fall 2018, Fall 2020|
 |ENGR 232: Engineering Design II|Spring 2021|
 |ENGR 313: Circuits and Instrumentation| Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020|
 |ENGR 498: Design for the Internet of Things|Fall 2019|
+|ENGR 480 / CS 497: Autonomous Vehicles (co-taught with Dr. Nathan Sprague)|Spring 2021|
 
 
 ENGR 112 – Engineering Decisions: Freshman engineering course focused on human-centered design, engineering decision making, and project management through a community-based project. Current applications use a tethered weather balloon to monitor environment conditions and create value for a local community stakeholder. Additional skills learned include MATLAB, SolidWorks, and Arduino with sensors and actuators.
