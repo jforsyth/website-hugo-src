@@ -49,8 +49,12 @@ activities performed.
 
 **Publications from this work:**
 
+Sophia Cronin, Tyler Webster, Jason Forsyth “Student Research Short: Wearable Computing for Physical Rehabilitation”, Poster Presentation at 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract) [link](/post/ieee-capwic-2021/)
+
 Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 [link](/post/capwic/)
 
 **Funding for the work:**
 
-JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500.
+JMU CISE Mini Grant: J. Forsyth,“Prototyping Wearables for Physical Therapy”. $700. Spring 2021.
+
+JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500. Spring 2019.

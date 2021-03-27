@@ -4,7 +4,7 @@ date: 2019-03-25
 math: true
 diagram: true
 markup: mmark
-categories: ["JMU","Undergraduate Research"]
+categories: ["JMU","Undergraduate Research","Wearable Computing"]
 ---
 
 ![Sanarea Ali at CAPWIC 2019](/img/sanarea-ali-capwic.jpg "Sanarea Ali at CAPWIC 2019") 

@@ -4,7 +4,7 @@ date: 2019-10-12
 math: true
 diagram: true
 markup: mmark
-categories: ["JMU","Undergraduate Research"]
+categories: ["JMU","Undergraduate Research","Wearable Computing"]
 ---
 
 ![Stephen Mitchell at MARCUS 2019](/img/stephen-mitchell-marcus.jpg)
