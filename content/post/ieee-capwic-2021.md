@@ -10,7 +10,7 @@ Despite the pandemic, Spring 2021 has been a productive time for the undergradua
 
 ![Stephen Mitchell presents his work at IEEE SouthEast Conference](/img/stephen-ieee-conf.png "Stephen Mitchell presents his work at IEEE SouthEast Conference")
 
-Stephen Mitchell has presented his latest work at IEEE SouthEast Conference. This [short paper](/pdf/MitchellS-T7S2-ieee-ready.pdf) and [presentation](/pdf/Mitchell-IEEE-Presentation.pdf) is an extension of his previous work that was presented at [MARCUS 2019](/post/marcus2019). Additionally analysis is on-going and has been accepted as publication for a full paper at SIEDS 2021.
+Stephen Mitchell has presented his latest work at IEEE SouthEast Conference. This [short paper](/pdf/MitchellS-T7S2-ieee-ready.pdf) and [presentation](/pdf/Mitchell-IEEE-Presentation.pdf) is an extension of his previous work that was presented at [MARCUS 2019](/post/marcus2019). Additional analysis is on-going and has been accepted as publication for a [full paper](/pdf/mitchell-sieds-camera-ready.pdf) at [SIEDS 2021](https://engineering.virginia.edu/departments/engineering-systems-and-environment/academics/ieee-sieds).
 
 ![Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021](/img/sophia-tyler-capwic.png "Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021")
 
