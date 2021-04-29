@@ -14,7 +14,9 @@ Stephen Mitchell has presented his latest work at IEEE SouthEast Conference. Thi
 
 ![Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021](/img/sophia-tyler-capwic.png "Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021")
 
-Sophia Cronin and Tyler Webster also presented their work on wearable haptic and visual feedback systems for physical therapy rehabilitation at the ACM Capitol Region Celebration of Women in Computing (CAPWIC). Their [abstract](/pdf/capwic-2021-abstract.pdf) and [presentation](/pdf/cronin-webster-capwic-2021-presentation.pdf) are available.
+Sophia Cronin and Tyler Webster also presented their work on wearable haptic and visual feedback systems for physical therapy rehabilitation at the ACM Capital Region Celebration of Women in Computing (CAPWIC). Their [abstract](/pdf/capwic-2021-abstract.pdf) and [presentation](/pdf/cronin-webster-capwic-2021-presentation.pdf) are available.
+
+Jonathan Li (Computer Science) completed his one year project developing machine learning tools to manage our human activity recognition data. His work finalizes our data pipeline to capture activity data, clean/label/manage the information, and evaluate novel HAR approaches.
 
 Both of these works are supported by JMU CISE Faculty Development and Mini Grants.
 
