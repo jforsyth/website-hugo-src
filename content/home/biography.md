@@ -13,7 +13,7 @@ subtitle = ""
 
 +++
 
-Jason Forsyth is an Assistant Professor of Engineering at James Madison University. He received his PhD from Virginia Tech in May 2015. His major research interests are in wearable/ubiquitous computing and engineering education. Previously he was an Assistant Professor of Electrical and Computer Engineering at York College of Pennsylvania from 2015 – 2018.
+Jason Forsyth is an Associate Professor of Engineering at James Madison University. He received his PhD from Virginia Tech in May 2015. His major research interests are in wearable/ubiquitous computing and engineering education. Previously he was an Assistant Professor of Electrical and Computer Engineering at York College of Pennsylvania from 2015 – 2018.
 
 His wearable computing work develops safety systems that provide continuous monitoring and sensing to protect human life. Previous work examined the role of wearable pulse oximetry in protecting construction workers from carbon monoxide poisoning and developing a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes. His current research interests focus on on-body human activity recognition and interactive machine learning for physical therapy patients and practitioners to increase exercise adherence and clinical evaluation.
 
