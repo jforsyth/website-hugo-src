@@ -49,12 +49,18 @@ activities performed.
 
 **Publications from this work:**
 
-Sophia Cronin, Tyler Webster, Jason Forsyth “Student Research Short: Wearable Computing for Physical Rehabilitation”, Poster Presentation at 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract) [link](/post/ieee-capwic-2021/)
+- Megan Caulfield, Jason Forsyth "Student Research Short: Wearable Computing for Physical Rehabilitation", *accepted for presentation at* 2022 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract)
 
-Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 [link](/post/capwic/)
+- Sophia Cronin, Tyler Webster, Jason Forsyth “Student Research Short: Wearable Computing for Physical Rehabilitation”, Presentation at 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract) [link](/post/ieee-capwic-2021/)
+
+- Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 [link](/post/capwic/)
 
 **Funding for the work:**
 
-JMU CISE Mini Grant: J. Forsyth,“Prototyping Wearables for Physical Therapy”. $700. Spring 2021.
+- JMU CISE Faculty Development Grant: J. Forsyth (PI), H. Kirkvold (Co-PI), "Designing Wearable Systems for Movement Correction in Physical Therapy Applications", $3,900. Fall 2021
 
-JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500. Spring 2019.
+- 4-VA  Grant: J. Forsyth (PI), T. Martin (Co-PI), "Designing Wearable Systems for Movement Correction in Physical Therapy Applications", $5,000. Fall 2021
+
+- JMU CISE Mini Grant: J. Forsyth,“Prototyping Wearables for Physical Therapy”. $700. Spring 2021.
+
+- JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500. Spring 2019.
