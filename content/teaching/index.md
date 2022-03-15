@@ -18,7 +18,7 @@ date="2019-08-06"
 |ENGR 298: Engineering Analysis and Decision Making | Spring 2022|
 |ENGR 231: Engineering Design I|Fall 2018, Fall 2020, Fall 2021|
 |ENGR 232: Engineering Design II|Spring 2021, Spring 2022|
-|ENGR 313: Circuits and Instrumentation| Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020|
+|ENGR 313: Circuits and Instrumentation| Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Fall 2021|
 |ENGR 498: Design for the Internet of Things|Fall 2019, Fall 2021|
 |ENGR 480 / CS 497: Autonomous Vehicles (co-taught with Dr. Nathan Sprague)|Spring 2021|
 
