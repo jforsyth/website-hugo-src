@@ -4,7 +4,7 @@ date: 2022-12-01
 math: true
 diagram: true
 markup: mmark
-categories: ["JMU","Undergraduate Research"]
+categories: ["JMU","Undergraduate Research", "Engineering Education"]
 ---
 
 ## 4-VA Grant with Sol Lim (Virginia Tech)
