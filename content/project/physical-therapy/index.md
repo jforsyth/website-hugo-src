@@ -48,8 +48,9 @@ activities performed.
 
 
 **Publications from this work:**
+- Megan Caulfield, Justin Blevins, Jason Forsyth "Tactile Instructions for Wearable Physical Rehabilitation", Poster presentation at the 2023 National Conference on Undergraduate Research (NCUR), Eau Claire WI [link](/post/ncur2023/)
 
-- Megan Caulfield, Jason Forsyth "Student Research Short: Wearable Computing for Physical Rehabilitation", *accepted for presentation at* 2022 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract)
+- Megan Caulfield, Jason Forsyth "Student Research Short: Wearable Computing for Physical Rehabilitation", Presented at 2022 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract)
 
 - Sophia Cronin, Tyler Webster, Jason Forsyth “Student Research Short: Wearable Computing for Physical Rehabilitation”, Presentation at 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract) [link](/post/ieee-capwic-2021/)
 
