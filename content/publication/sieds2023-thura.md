@@ -2,7 +2,7 @@
 title = "Analysis of the Machine Learning Classification of Cardiac Disease on Embedded Systems"
 
 # Date first published.
-date = "2023-04-28"
+date = "2023-04-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sanda Thura", "Jason Forsyth", "Kevin Molloy","Jacob Couch"]

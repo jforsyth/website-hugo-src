@@ -2,7 +2,7 @@
 title = "GymSense: Exploration in Measuring Bench Press Form Using Sensor Technology"
 
 # Date first published.
-date = "2023-04-28"
+date = "2023-04-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Ritavash Chowdhury", "Michael Chung", "Dylan Gnagey","Jason Forsyth"]
@@ -25,7 +25,7 @@ publication_short = "SIEDS 2023"
 
 # Abstract and optional shortened version.
 abstract ="""
-Proper weightlifting form is essential to prevent injuries, particularly for beginners. Our GymSense project is a computer system that monitors and provides feedback on critical aspects of form during the bench press exercise, including grip width, shoulder distance, shoulder abduction angle, tilt, and back arch. The system employs force and camera sensors, ArUco markers, and the BlazePose algorithm to measure the key parameters of form and provides feedback to the user during and after each set. The feedback loop allows users to identify areas for improvement and reduce the risk of injury. We conducted a user study to assess the accuracy of the first iteration of the system. We found through the user study that our system is not as accurate as a personal trainer, but our project presents the initial phase of an alternative approach for obtaining feedback on a user’s bench press form
+Proper weightlifting form is essential to prevent injuries, particularly for beginners. Our GymSense project is a computer system that monitors and provides feedback on critical aspects of form during the bench press exercise, including grip width, shoulder distance, shoulder abduction angle, tilt, and back arch. The system employs force and camera sensors, ArUco markers, and the BlazePose algorithm to measure the key parameters of form and provides feedback to the user during and after each set. The feedback loop allows users to identify areas for improvement and reduce the risk of injury. We conducted a user study to assess the accuracy of the first iteration of the system. We found through the user study that our system is not as accurate as a personal trainer, but our project presents the initial phase of an alternative approach for obtaining feedback on a user’s bench press form.
 """
 abstract_short = "A short version of the abstract."
 
