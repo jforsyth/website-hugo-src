@@ -7,7 +7,7 @@ markup: mmark
 categories: ["JMU","Ancient Coins"]
 ---
 
-Starting this fall I have joined the Madison Art Collection and Lisanby Museum as their [Curator of Coins](https://www.jmu.edu/madisonart/people/forsyth-jason.shtml). 
+Starting this fall I have joined the Madison Art Collection and Lisanby Museum as their [Curator of Coins](https://www.jmu.edu/madisonart/people/index.shtml). 
 I'm excited to take a personal passion for ancient history and extend it into mentoring students and service to the University.
 My personal focus is on Ancient Roman coinage during Imperatorial period from 44 BC through 27 BC. This was an exciting time dealing with the civil wars of Caesar and Pompey and concluding with the victory of Octavian over Marc Antony.
 
