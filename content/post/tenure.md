@@ -12,3 +12,8 @@ Based upon action by the JMU Board of Visitors on April 19th I have been granted
 This could not be accomplished without the tremendous support of many people including: the other members of the "Engineering Triplets" Shraddha Joshi and Daniel Castaneda who started with me in 2018, my CS "brothers-in-law" of Michael Stewart and Kevin Molloy, my doctoral advisor Tom Martin, the multitude of [undergraduate researchers](https://www.jasonforsyth.net/categories/undergraduate-research/) who have passed through the Wearable Computing Group, and the constant love and support of my wife, Katie Forsyth.  
 
 
+<table width="99%">
+ <tr>
+  <td><a href = "/img/tenure.jpeg"><img src="/img/tenure.jpeg" alt="" ></td>
+ </tr>
+</table>
