@@ -7,7 +7,7 @@ markup: mmark
 categories: ["JMU","Undergraduate Research", "Wearable Computing"]
 ---
 
-**Student Research at SIES 2023**
+**Student Research at SIEDS 2023**
 
 The work of several JMU honors students and capstone projects was presented last week at the [2023 IEEE Systems and Information Engineering Design Symposium (SIEDS)](https://engineering.virginia.edu/ieee-sieds) hosted by the University of Virginia. Sanda Thura (JMU Computer Science '23) presented his honors thesis on applications of machine learning for cardiac disease detection on embedded systems. His paper can be viewed [here](/pdf/thursa-sieds-2023.pdf). Sanda was advised by myself, Dr. Kevin Molloy (JMU CS), and Dr. Jacob Couch (Johns Hopkins Applied Physics Lab).
 
