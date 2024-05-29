@@ -72,4 +72,4 @@ user_groups:
 
 Welcome to Jason Forsyth’s personal website!
 
-I can also be found on [Google Scholar](https://scholar.google.com/citations?user=EY6SBHcAAAAJ&hl=en). Feel free to contact me at forsy2jb {_at_} jmu.edu. My full CV can be found [here](/pdf/Jason-Forsyth-CV.pdf) (Current as of 9/18/2023). Browse the pages below for recent [news](#posts), [biography](#biography), [current projects](#projects), and [publications](#publications).
+I can also be found on [Google Scholar](https://scholar.google.com/citations?user=EY6SBHcAAAAJ&hl=en). Feel free to contact me at forsy2jb {_at_} jmu.edu. My full CV can be found [here](/pdf/Jason-Forsyth-CV.pdf) (Current as of 5/29/2024). Browse the pages below for recent [news](#posts), [biography](#biography), [current projects](#projects), and [publications](#publications).
