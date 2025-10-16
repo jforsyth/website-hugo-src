@@ -1,6 +1,6 @@
 ---
 title: Students Present at Virginia Academy of Science and CS Research Day
-date: 2025-05-07
+date: 2025-05-01
 math: true
 diagram: true
 markup: mmark
