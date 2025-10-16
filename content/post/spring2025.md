@@ -18,7 +18,7 @@ Several research students presented their work this semester in various fields.
  </tr>
 </table>
 
-Julia Larson (Engineering '26) presented her research on haptic corrective feedback during exercise at the [Virginia Academy of Science Annual Meeting](https://www.vacadsci.org/2025_annual_meeting.php) at the University of Virginia. He work examines whether feedback at the site of muscle activation is comparable or more effective than methods which target movement of the individual limb or joint. Her poster is available online ([PDF](/pdf/larson-vas-poster.pdf))
+Julia Larson (Engineering '26) presented her research on haptic corrective feedback during exercise at the [Virginia Academy of Science Annual Meeting](https://www.vacadsci.org/2025_annual_meeting.php) at the University of Virginia. Her work examines whether feedback at the site of muscle activation is comparable or more effective than methods which target movement of the individual limb or joint. Her poster is available online ([PDF](/pdf/larson-vas-poster.pdf))
 
 
 
@@ -30,4 +30,4 @@ Julia Larson (Engineering '26) presented her research on haptic corrective feedb
  </tr>
 </table>
 
-Jackson Greer (CS '25) presented his research on deep learning methods for ancient coin identification and historical provenance recovery. His work will assist the Madison Art Collection in recovering lost ownership information from the [Sawhill Ancient Coin collection](https://www.jmu.edu/madisonart/_coin_collection.shtml). He applied various deep metric learning methods to existing datasets of Roman Republican coins and validated his approach from sample images from the Sawhill collection. His presentation is available online ([PDF](/pdf/greer-deep-metric-learning.pdf)).
+Jackson Greer (CS '25) presented his research on deep learning methods for ancient coin identification and historical provenance recovery. His work will assist the Madison Art Collection in recovering lost ownership information from the [Sawhill Ancient Coin Collection](https://www.jmu.edu/madisonart/_coin_collection.shtml). He applied various deep metric learning methods to existing datasets of Roman Republican coins and validated his approach from sample images from the Sawhill collection. His presentation is available online ([PDF](/pdf/greer-deep-metric-learning.pdf)).
