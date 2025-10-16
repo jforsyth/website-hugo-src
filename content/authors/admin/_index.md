@@ -23,7 +23,7 @@ bio: Jason Forsyth is an Associate Professor of Engineering at James Madison Uni
 interests:
 - Wearable Computing
 - Ubiquitous Computing
-- Engineering Education
+- Ancient Numismatics
 
 #education:
 #  courses:
